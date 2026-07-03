@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  line-height: 1.75;
+}
+
+code,
+pre {
+  font-size: 0.95em;
+}
+
+blockquote {
+  border-left: 4px solid #0f766e;
+  color: #334155;
+  padding-left: 1rem;
+}
+
