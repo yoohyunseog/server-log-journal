@@ -1,5 +1,5 @@
 title: Public Server Log Journal
-description: 한국인터넷.한국 1부 종료 이후 서버 기록과 변경 흔적 보관소
+description: 한글 도메인 한국인터넷.한국 1부 종료 이후 서버 기록과 변경 흔적 보관소
 lang: ko-KR
 timezone: Asia/Seoul
 theme: minima
@@ -15,4 +15,3 @@ minima:
 
 plugins:
   - jekyll-feed
-
